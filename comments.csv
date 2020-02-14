@@ -1,0 +1,1036 @@
+Full Text,Stop_Words,Lemmatization,Lang
+i wrote a script that checks my ping to game servers when i 'm playing if it gets to high it would log into my router and start kicking my roommates off the network,wrote script checks ping game servers ' m playing gets high log router start kicking roommates network,write script check ping game server ' m playing get high log router start kick roommates network,en
+my kids and i used a raspberry pi and some python to post to facebook any time the toilet was flushed we called it the turdtracker 2000,kids raspberry pi python post facebook time toilet flushed called turdtracker 2000,kids raspberry pi python post facebook time toilet flush call turdtracker 2000,en
+"web apps are fun and some what cool i made a little ui webpage for my raspberry pi the pi is hooked up to a couple custom breadboards one has a few leds to blink and then a temperature & humidity sensor set up some buttons on the webpage that signal the rpi to blink a certain led or take reading from a sensor i went further and added the camera so now when you toggle the led it actually snaps a pic reloads the page and puts in the new image there 
+
+ i did all that with flask","web apps fun cool little ui webpage raspberry pi pi hooked couple custom breadboards leds blink temperature & humidity sensor set buttons webpage signal rpi blink certain led reading sensor went added camera toggle led actually snaps pic reloads page puts new image 
+
+  flask","web app fun cool little ui webpage raspberry pi pi hook couple custom breadboard led blink temperature & humidity sensor set button webpage signal rpi blink certain lead reading sensor go add camera toggle lead actually snap pic reload page put new image 
+
+   flask",en
+i got to use python to automate a lot of the artists bs work like folder structure and getting access to tools / materials they needed to start work on feature films such as transformers 3 mib3 the immortals enders game and green lantern,got use python automate lot artists bs work like folder structure getting access tools / materials needed start work feature films transformers 3 mib3 immortals enders game green lantern,get use python automate lot artist bs work like folder structure get access tool / material need start work feature film transformer 3 mib3 immortal ender game green lantern,en
+i use a raspberry pi connected to a servo motor with a custom flag that monitors my company ticketing software when a new incident is reported and it needs triage the flags raises so the whole support team is aware when the triage process is done the flag goes down,use raspberry pi connected servo motor custom flag monitors company ticketing software new incident reported needs triage flags raises support team aware triage process flag goes,use raspberry pi connect servo motor custom flag monitor company ticket software new incident report need triage flag raise support team aware triage process flag go,en
+i automated most of my job while maybe not traditionally cool it freed my time up at work to build drones and such when before i was running analysis and making reports the old fashioned excel   way,automated job maybe traditionally cool freed time work build drones running analysis making reports old fashioned excel    way,automate job maybe traditionally cool free time work build drone run analysis making report old fashioned excel     way,en
+"i initally wrote a python script to update the ntp addresses of 1200 connected traffic signal control devices for a city it worked great and i got the praise for saving man hours but i decided to not stop there 
+
+ there was a daily need to allow all stakeholders of the traffic network to see the statuses of all network devices and some other data so i made a daily script that would run and climb the network get the status / data from traffic control devices then parse to a kml file which would display the device at the correct coordinates on google earth with status coloring and data getting the coordinate for all the devices was a python chore in itself tons and tons of data in a million different excel sheets i got pretty good at parsing and dicts by the end of it 
+
+ i 'm bummed that i left that code when i left that job but i had intentions on making it real time and restful would of have been my coolest piece of code in the last few years 
+
+ you think they would have just invested in solarwinds though or as /r / rockuu pointed out a dns server 
+
+ edit i just had a nice write up on a financial workflow app i 'm working on but my tired fingers just hit the back button and i lost like 7 paragraphs of ideas for you mobile probs hopefully i can still give you ideas i 'll try to sum it up 
+
+ -cherrypy web / api server 
+
+ processes json web request with manually entered financial invoice data from a web form to record in sql database 
+
+ -built a workflow view to allow simple input of milestone tracking dates basically each invoice becomes a box on the screen boxes start on the left side then as dates get entered the box moves right column to column until it 's complete 
+
+ allows for esigning of invoices 
+
+ -when an invoice is esigned a python script takes the data from it and generates an excel check request form using pyopenxl check request then automatically ia emailed to people sent to a printer and written through smb to a protected share 
+
+ -when a check gets printed it updates an external csv the external csv generated from some old vb program the finance department uses holds a printing date which is recorded into the database 
+
+ also takes a json feed of organization domain / cert vendors and expiration dates from a windows ad server 
+
+ server accesses a network drive to pull data from numerous excel workbooks updated by other people 
+
+ this data is query able through a page in the web app this page calls to the server to generate an excel book through pyopenxl this book contains financial records and tools for forecasting 
+
+ allows on the fly changing of key parameters through web page such as excel field locations by rows / cols 
+
+ -recently found out my employer wants me too branch my workflow view and make it into an org chart for another department sounds weird but workflow milestone columns actually work great for holding list of names never doubt the power of code reuse 
+
+ i 'm sorry if this too abstract i 'm still getting over being pissed accidently deleting 10 paragraphs explaining everything above feel free to ask questions","initally wrote python script update ntp addresses 1200 connected traffic signal control devices city worked great got praise saving man hours decided stop 
+
+  daily need allow stakeholders traffic network statuses network devices data daily script run climb network status / data traffic control devices parse kml file display device correct coordinates google earth status coloring data getting coordinate devices python chore tons tons data million different excel sheets got pretty good parsing dicts end 
+
+  ' m bummed left code left job intentions making real time restful coolest piece code years 
+
+  think invested solarwinds /r / rockuu pointed dns server 
+
+  edit nice write financial workflow app ' m working tired fingers hit button lost like 7 paragraphs ideas mobile probs hopefully ideas try sum 
+
+  -cherrypy web / api server 
+
+  processes json web request manually entered financial invoice data web form record sql database 
+
+  -built workflow view allow simple input milestone tracking dates basically invoice box screen boxes start left dates entered box moves right column column complete 
+
+  allows esigning invoices 
+
+  -when invoice esigned python script takes data generates excel check request form pyopenxl check request automatically ia emailed people sent printer written smb protected share 
+
+  -when check gets printed updates external csv external csv generated old vb program finance department uses holds printing date recorded database 
+
+  takes json feed organization domain / cert vendors expiration dates windows ad server 
+
+  server accesses network drive pull data numerous excel workbooks updated people 
+
+  data query able page web app page calls server generate excel book pyopenxl book contains financial records tools forecasting 
+
+  allows fly changing key parameters web page excel field locations rows / cols 
+
+  -recently found employer wants branch workflow view org chart department sounds weird workflow milestone columns actually work great holding list names doubt power code reuse 
+
+  ' m sorry abstract ' m getting pissed accidently deleting 10 paragraphs explaining feel free ask questions","initally write python script update ntp address 1200 connect traffic signal control devices city work great get praise save man hour decide stop 
+
+   daily need allow stakeholder traffic network status network devices data daily script run climb network status / datum traffic control device parse kml file display device correct coordinate google earth status color datum get coordinate device python chore ton ton datum million different excel sheet get pretty good parsing dict end 
+
+   ' m bummed leave code left job intention make real time restful cool piece code year 
+
+   think invest solarwind /r / rockuu point dns server 
+
+   edit nice write financial workflow app ' m work tired finger hit button lose like 7 paragraphs idea mobile prob hopefully idea try sum 
+
+   -cherrypy web / api server 
+
+   process json web request manually enter financial invoice data web form record sql database 
+
+   -built workflow view allow simple input milestone tracking date basically invoice box screen box start leave date enter box move right column column complete 
+
+   allow esigning invoice 
+
+   -when invoice esigne python script take data generate excel check request form pyopenxl check request automatically ia email people send printer write smb protect share 
+
+   -when check get print update external csv external csv generate old vb program finance department use hold print date record database 
+
+   take json feed organization domain / cert vendor expiration date window ad server 
+
+   server access network drive pull datum numerous excel workbook update people 
+
+   datum query able page web app page call server generate excel book pyopenxl book contain financial record tool forecast 
+
+   allow fly change key parameter web page excel field location row / col 
+
+   -recently find employer want branch workflow view org chart department sound weird workflow milestone column actually work great holding list name doubt power code reuse 
+
+   ' m sorry abstract ' m get piss accidently delete 10 paragraph explain feel free ask question",en
+i automate the testing of medical imaging software and devices that surgeons use during cardiovascular ablations all infrastructure and test suites are in python runs hundreds of man hours of clinical tests every night,automate testing medical imaging software devices surgeons use cardiovascular ablations infrastructure test suites python runs hundreds man hours clinical tests night,automate testing medical image software device surgeon use cardiovascular ablation infrastructure test suit python run hundreds man hour clinical test night,en
+"i wrote a script that takes the top songs of r / music in the last week and turns them into a spotify playlist 
+
+ later i made a web interface for it it 's right here](http://reddittospotify.pythonanywhere.com 
+
+ it 's hosted on pythonanywhere.com so be gentle 
+
+ edit here 's the code on github](https://github.com / stefgou / reddit_to_spotify","wrote script takes songs r / music week turns spotify playlist 
+
+  later web interface right here](http://reddittospotify.pythonanywhere.com 
+
+  hosted pythonanywhere.com gentle 
+
+  edit code github](https://github.com / stefgou / reddit_to_spotify","write script take song r / music week turn spotify playlist 
+
+   later web interface right here](http://reddittospotify.pythonanywhere.com 
+
+   host pythonanywhere.com gentle 
+
+   edit code github](https://github.com / stefgou / reddit_to_spotify",en
+"eight or nine years ago while working for a very large web retailer the one you 're probably thinking of i wrote a script in python to 
+
+ retrieve all ~~asins~~ skus with authorship data in specific categories of products from the catalog around one million records 
+ retrieve all the author / creator records for those skus 20 - 40,000 records 
+ retrieve all the records of the authors / creators from a books / music / media / games business program around 12,000 and 
+ compare the author names against the customer names using the levenshtein distance to find authors and creators who had not signed up the find authors who had multiple accounts and also find creators who may have pen names that also have customer accounts over 65 million 
+
+ these records were used to tie the accounts in different systems together so we could make the author link work on product pages find products the author wrote or co - wrote that were missing from their author pages and contact authors who should join the registered creator program 
+
+ the fun part was that the standard developer workstation at the time had 4 gb of ram ran a 32-bit version of linux and could n't create a file larger than 4 gb either ext2fs   i had to use the existing identifiers as hashes they were well distributed to write them to multiple directories and dbm files for analysis 
+
+ if i recall correctly on a 2.5 ghz single core machine it took a little more than an hour to create a report for all the possible author matches ranked by confidence   i did have to stage some of the data first like the product catalog which was an overnight batch job to reduce load on the catalog servers   the report was then used to associate authors with products and the customer records for the authors were used to contact them to verify their author pages and the products we assigned to them","years ago working large web retailer probably thinking wrote script python 
+
+  retrieve ~~asins~~ skus authorship data specific categories products catalog million records 
+  retrieve author / creator records skus 20 - 40,000 records 
+  retrieve records authors / creators books / music / media / games business program 12,000 
+  compare author names customer names levenshtein distance find authors creators signed find authors multiple accounts find creators pen names customer accounts 65 million 
+
+  records tie accounts different systems author link work product pages find products author wrote co - wrote missing author pages contact authors join registered creator program 
+
+  fun standard developer workstation time 4 gb ram ran 32-bit version linux create file larger 4 gb ext2fs    use existing identifiers hashes distributed write multiple directories dbm files analysis 
+
+  recall correctly 2.5 ghz single core machine took little hour create report possible author matches ranked confidence    stage data like product catalog overnight batch job reduce load catalog servers    report associate authors products customer records authors contact verify author pages products assigned","year ago work large web retailer probably think write script python 
+
+   retrieve ~~asins~~ skus authorship datum specific category product catalog million records 
+   retrieve author / creator record skus 20 - 40,000 record 
+   retrieve records author / creator book / music / medium / game business program 12,000 
+   compare author name customer name levenshtein distance find author creator sign find author multiple account find creator pen name customer account 65 million 
+
+   record tie account different system author link work product page find product author write co - write miss author page contact author join register creator program 
+
+   fun standard developer workstation time 4 gb ram run 32-bit version linux create file large 4 gb ext2fs     use exist identifier hash distribute write multiple directory dbm file analysis 
+
+   recall correctly 2.5 ghz single core machine take little hour create report possible author match rank confidence     stage datum like product catalog overnight batch job reduce load catalog server     report associate author product customer record author contact verify author page product assign",en
+at work i use python to scrape several hundred newspaper pdfs and to automate acrobat pro to highlight certain keywords i also use it for more general web scraping,work use python scrape newspaper pdfs automate acrobat pro highlight certain keywords use general web scraping,work use python scrape newspaper pdf automate acrobat pro highlight certain keyword use general web scraping,en
+"our libraries ils think computerized card catalog used to have a fairly manual and clunky process for sending circulation notices fees due overdue   recalls etc if staff forgot to run this clunky buggy client server program noone got notices   figured out how things were stored on the server and completely automated the process complete with various reports for management types 
+
+ may not sound that exciting but people at work love it 
+","libraries ils think computerized card catalog fairly manual clunky process sending circulation notices fees overdue    recalls etc staff forgot run clunky buggy client server program got notices    figured things stored server completely automated process complete reports management types 
+
+  sound exciting people work love 
+","library ils think computerized card catalog fairly manual clunky process send circulation notice fee overdue     recall etc staff forget run clunky buggy client server program get notice     figured thing store server completely automate process complete report management type 
+
+   sound exciting people work love 
+",en
+"i wrote a bot using selenium that signs me up for my courses at college here's](https://github.com / seanpianka / vindicta the repository it logins me into my school homepage navigates to the shopping cart for classes and will add classes as it sees them open up if there is a class that it sees is n't open it 'll refresh every 17 seconds and add the class if it 's open otherwise repeat the waiting time 
+
+ it makes a heavy use of regular expressions and a bot framework](https://github.com / seanpianka fsubot i wrote specifically for my university 's website 
+
+ i am able to run and manage it on my server i have at home using xvfb](https://en.wikipedia.org / wiki / xvfb as a virtual display server so that selenium can open its browser so the entire process can be automated / repeated if the bot runs into any exceptions and i can have multiple instances of the bot running for different accounts 
+
+ the name comes from the latin word for vengeance someone took the last spot of a class i wanted and so rather than sitting at my computer constantly refreshing to see if it opens i wrote a bot to do that work for me now i do n't have to be angry i 'm stuck with an 8 am calculus 2 class 4 days a week and i can let the bot do the hard work for me","wrote bot selenium signs courses college here's](https://github.com / seanpianka / vindicta repository logins school homepage navigates shopping cart classes add classes sees open class sees open refresh 17 seconds add class open repeat waiting time 
+
+  makes heavy use regular expressions bot framework](https://github.com / seanpianka fsubot wrote specifically university website 
+
+  able run manage server home xvfb](https://en.wikipedia.org / wiki / xvfb virtual display server selenium open browser entire process automated / repeated bot runs exceptions multiple instances bot running different accounts 
+
+  comes latin word vengeance took spot class wanted sitting computer constantly refreshing opens wrote bot work angry ' m stuck 8 calculus 2 class 4 days week let bot hard work","write bot selenium sign course college here's](https://github.com / seanpianka / vindicta repository login school homepage navigate shopping cart class add class see open class see open refresh 17 second add class open repeat waiting time 
+
+   make heavy use regular expression bot framework](https://github.com / seanpianka fsubot write specifically university website 
+
+   able run manage server home xvfb](https://en.wikipedia.org / wiki / xvfb virtual display server selenium open browser entire process automate / repeat bot run exception multiple instance bot run different account 
+
+   come latin word vengeance take spot class want sit computer constantly refresh open write bot work angry ' m stick 8 calculus 2 class 4 day week let bot hard work",en
+"i bought an sdr dongle raspberry pi and one of those $ 8 433mhz wireless weather temperature / humidity sensors 
+
+ i wrote a python script which watches for the sdr decoding temperatures from my specific sensor and then logs it to a remote mysql database 
+
+ the purpose of this is to log the temperature in the basement laundry room of my apartment building i hid the sensor down there on a community bookshelf behind a book that no one will ever read 
+
+ i 'm able to watch trends to determine when the busiest times of the week are to do laundry 
+
+ i 'm also able to determine my chances of getting an empty machine and whether i want to lug my laundry down there because the more machines that are in use the higher the temp and humidity in the room are 
+
+ the side benefit is that we in the building have been complaining for months that the temperature in that room never drops below 88f regardless of the time of the day or laundry activity because it has no ventilation and is adjacent to the enormous boiler that runs all year round to produce heat and hot water for our building i 'm hoping to eventually convince the building owners to install powered vents to try to keep the temperature lower","bought sdr dongle raspberry pi $ 8 433mhz wireless weather temperature / humidity sensors 
+
+  wrote python script watches sdr decoding temperatures specific sensor logs remote mysql database 
+
+  purpose log temperature basement laundry room apartment building hid sensor community bookshelf book read 
+
+  ' m able watch trends determine busiest times week laundry 
+
+  ' m able determine chances getting machine want lug laundry machines use higher temp humidity room 
+
+  benefit building complaining months temperature room drops 88f regardless time day laundry activity ventilation adjacent enormous boiler runs year round produce heat hot water building ' m hoping eventually convince building owners install powered vents try temperature lower","buy sdr dongle raspberry pi $ 8 433mhz wireless weather temperature / humidity sensor 
+
+   write python script watch sdr decode temperature specific sensor log remote mysql database 
+
+   purpose log temperature basement laundry room apartment building hide sensor community bookshelf book read 
+
+   ' m able watch trend determine busy time week laundry 
+
+   ' m able determine chance get machine want lug laundry machine use high temp humidity room 
+
+   benefit building complaining month temperature room drop 88f regardless time day laundry activity ventilation adjacent enormous boiler run year round produce heat hot water building ' m hope eventually convince building owner install power vent try temperature lower",en
+i scraped a government webpage for free slots in one of their notoriously full scheduling web apps it checked every few minutes if anything was open i.e. cancellations earlier than my currently scheduled appointment it would swap to the earlier one i let it run for a while and presto i moved up the ladder to an appointment only a few days from starting it instead of a month or two down the line which was my original appointment time,scraped government webpage free slots notoriously scheduling web apps checked minutes open i.e. cancellations earlier currently scheduled appointment swap earlier let run presto moved ladder appointment days starting instead month line original appointment time,scraped government webpage free slot notoriously schedule web app check minute open i.e. cancellation earlier currently schedule appointment swap earlier let run presto moved ladder appointment day start instead month line original appointment time,en
+"currently using python to get an outline of a car from a jpeg it does this for the front top and side view then a separate code uses these outlines to create the car in a cfd simulator the python code pops out a java macro code sounds like the computer equivalent of child birth 
+
+ while the three views do not get a perfect car geometry in 3d it 's still pretty damn cool and sufficient for my my purposes","currently python outline car jpeg view separate code uses outlines create car cfd simulator python code pops java macro code sounds like computer equivalent child birth 
+
+  views perfect car geometry 3d pretty damn cool sufficient purposes","currently python outline car jpeg view separate code use outline create car cfd simulator python code pops java macro code sound like computer equivalent child birth 
+
+   view perfect car geometry 3d pretty damn cool sufficient purpose",en
+"probably not crazy cool but i wrote a python program which takes miles and litres used then spits out loads ofgeeky fuel economy info 
+
+ this is basic af but i 'm a noob and car head so its all mighty","probably crazy cool wrote python program takes miles litres spits loads ofgeeky fuel economy info 
+
+  basic af ' m noob car head mighty","probably crazy cool write python program take miles litres spit load ofgeeky fuel economy info 
+
+   basic af ' m noob car head mighty",en
+"my grandma is 75 and likes to call our relatives when it 's their birthday / anniversary the problem is that her records are handwritten and spread across two note books that are older than i am i 'm 21 she goes through them everyday though she remembers some dates its still painful to see i sat down with her last year made a sqlite database of the contact information of all the relatives and wrote a python script that queries this database everyday to figure out if someone had an anniversary or birthday on that day i then made her a gmail account the script is hosted on pythonanywhere.com and runs at 5 am est she has her little kindle she 's on the west coast so gets the email before she wakes up ofcourse all she has to do is check it and make a call the look on her face is priceless even now 😊 
+
+ i also wrote another script that scrapes the top stories off of google news and prints it to my terminal at every launch kind of useful i like to think 
+   ","grandma 75 likes relatives birthday / anniversary problem records handwritten spread note books older ' m 21 goes everyday remembers dates painful sat year sqlite database contact information relatives wrote python script queries database everyday figure anniversary birthday day gmail account script hosted pythonanywhere.com runs 5 est little kindle west coast gets email wakes ofcourse check look face priceless 😊 
+
+  wrote script scrapes stories google news prints terminal launch kind useful like think 
+   ","grandma 75 like relative birthday / anniversary problem record handwritten spread note book old ' m 21 go everyday remember date painful sit year sqlite database contact information relative write python script query database everyday figure anniversary birthday day gmail account script host pythonanywhere.com run 5 e little kindle west coast get email wakes ofcourse check look face priceless 😊 
+
+   write script scrape story google news print terminal launch kind useful like think 
+   ",en
+"mine is very simple 
+
+ 1 get the name of the most recently modified file in my downloads folder 
+
+ 2 extract the .zip file to downloads / zip file name 
+
+ 3 open downloads / zip file name in windows explorer 
+
+ whenever i download a .zip file i simply press a hotkey which triggers this script it automatically finds the most recently download file in my downloads folder extracts it and opens it in windows explorer i 've called this script literally hundreds if not thousands of times 
+
+     import os 
+     import zipfile 
+     import subprocess 
+    
+     directory = c:\\users\\scott\\downloads ' 
+     files = os.path.join(directory f for f in os.listdir(directory if f.lower().endswith('.zip 
+     extractfrom = os.path.join(directory os.path.basename(max(files key = os.path.getmtime 
+     extractto = os.path.splitext(extractfrom)[0 
+    
+     fh = open(extractfrom rb 
+     z = zipfile.zipfile(fh 												
+     for name in z.namelist 
+         z.extract(name extractto 
+     fh.close 
+    
+     % s % extractto 
+    ","simple 
+
+  1 recently modified file downloads folder 
+
+  2 extract .zip file downloads / zip file 
+
+  3 open downloads / zip file windows explorer 
+
+  download .zip file simply press hotkey triggers script automatically finds recently download file downloads folder extracts opens windows explorer ' ve called script literally hundreds thousands times 
+
+      import os 
+      import zipfile 
+      import subprocess 
+    
+      directory = c:\\users\\scott\\downloads ' 
+      files = os.path.join(directory f f os.listdir(directory f.lower().endswith('.zip 
+      extractfrom = os.path.join(directory os.path.basename(max(files key = os.path.getmtime 
+      extractto = os.path.splitext(extractfrom)[0 
+    
+      fh = open(extractfrom rb 
+      z = zipfile.zipfile(fh 												
+      z.namelist 
+          z.extract(name extractto 
+      fh.close 
+    
+      % s % extractto 
+    ","simple 
+
+   1 recently modify file download folder 
+
+   2 extract .zip file download / zip file 
+
+   3 open download / zip file window explorer 
+
+   download .zip file simply press hotkey trigger script automatically find recently download file download folder extract open windows explorer ' ve call script literally hundred thousand times 
+
+       import os 
+       import zipfile 
+       import subprocess 
+    
+       directory = c:\\users\\scott\\downloads ' 
+       file = os.path.join(directory f f os.listdir(directory f.lower().endswith('.zip 
+       extractfrom = os.path.join(directory os.path.basename(max(files key = os.path.getmtime 
+       extractto = os.path.splitext(extractfrom)[0 
+    
+       fh = open(extractfrom rb 
+       z = zipfile.zipfile(fh 												
+       z.namelist 
+           z.extract(name extractto 
+       fh.close 
+    
+       % s % extractto 
+    ",en
+i do a decent amount of web scraping i think i 've mentioned these both here before in similar threads but two of my more notable pieces of work include a script that daily logs every dealerships ' online listings in my area i 'm anticipating that my 07 pontiac g6 is n't going to last forever and i 'd like to make an informed purchase for its replacement and a script that runs every 5 minutes during the baseball season and makes sure i do n't have inactive players in my fantasy lineup,decent web scraping think ' ve mentioned similar threads notable pieces work include script daily logs dealerships ' online listings area ' m anticipating 07 pontiac g6 going forever like informed purchase replacement script runs 5 minutes baseball season makes sure inactive players fantasy lineup,decent web scraping think ' ve mention similar thread notable piece work include script daily log dealership ' online listing area ' m anticipate 07 pontiac g6 go forever like inform purchase replacement script run 5 minute baseball season make sure inactive player fantasy lineup,en
+"i 've got a library / program that takes a csv price list of products and tries to find them on amazon if it finds a potential project on amazon it opens it up in a browser for me to check if i agree the listing is for the product i 'm trying to add it grabs the photo description weight bullet points etc and creates listings on ebay newegg amazon jet my companies website and few other marketplaces 
+
+ i 've created some other variations for pulling info off of ebay manufacturers sites etc but the amazon one is my first step","' ve got library / program takes csv price list products tries find amazon finds potential project amazon opens browser check agree listing product ' m trying add grabs photo description weight bullet points etc creates listings ebay newegg amazon jet companies website marketplaces 
+
+  ' ve created variations pulling info ebay manufacturers sites etc amazon step","' ve get library / program take csv price list product try find amazon find potential project amazon open browser check agree list product ' m try add grab photo description weight bullet point etc create listing ebay newegg amazon jet company website marketplace 
+
+   ' ve create variation pull info ebay manufacturer sites etc amazon step",en
+to try and learn python i made a program that automatically cares for an old digimon toy.](https://www.youtube.com / watch?v = xxxqoq16xbu,try learn python program automatically cares old digimon toy.](https://www.youtube.com / watch?v = xxxqoq16xbu,try learn python program automatically care old digimon toy.](https://www.youtube.com / watch?v = xxxqoq16xbu,en
+i made a dnd character creator a couple months ago   it only made level one characters but it saved us some time for our local convention where we had a dnd table set up  ,dnd character creator couple months ago    level characters saved time local convention dnd table set  ,dnd character creator couple month ago     level character save time local convention dnd table set  ,en
+i built a framework that scrapes online serialized novels and turns them into epubs,built framework scrapes online serialized novels turns epubs,build framework scrape online serialize novel turn epub,en
+"i wrote quite a few fun scripts 
+
+ a cli script to go through my news feed and tell me the amount of memes in it 
+
+ a script to download music with metadata and album art 
+
+ a script to display the quote of the day as a notification 
+
+ a script that lets the cleverbot talk to people on my whatsapp list automatically 
+
+ most of these scripts are available on my github](https://github.com / lakshaykalbhor","wrote fun scripts 
+
+  cli script news feed tell memes 
+
+  script download music metadata album art 
+
+  script display quote day notification 
+
+  script lets cleverbot talk people whatsapp list automatically 
+
+  scripts available github](https://github.com / lakshaykalbhor","write fun script 
+
+   cli script news feed tell meme 
+
+   script download music metadata album art 
+
+   script display quote day notification 
+
+   script let cleverbot talk people whatsapp list automatically 
+
+   script available github](https://github.com / lakshaykalbhor",en
+in my job made a webcrawler to extract data via selenium from a public directory and paste it on a excel file openpyxls it stored around of 1500 rows which is n't much however it reduced a week of manual extraction in 30 minutes and one day of development,job webcrawler extract data selenium public directory paste excel file openpyxls stored 1500 rows reduced week manual extraction 30 minutes day development,job webcrawler extract data selenium public directory paste excel file openpyxls store 1500 row reduce week manual extraction 30 minute day development,en
+i 'm a small business owner   most of my inventory comes from a single distributor and when i order they email me a pdf of the invoice   i wrote a script to parse that pdf and update my store inventory with the products i ordered,' m small business owner    inventory comes single distributor order email pdf invoice    wrote script parse pdf update store inventory products ordered,' m small business owner     inventory come single distributor order email pdf invoice     write script parse pdf update store inventory product order,en
+"i had a lot of data to analyze resulting from a number of electron microscopy experiments i was a part of 
+
+ i got tired of using an image software like imagej fiji or gimp to view some of the images just to look for interesting features in them then gather a list of x y coordinates of the interesting features to be passed into a python script to produce some plots from those features 
+
+ i figured it would be pretty straightforward to wrap the entire analysis process into a nice gui 
+
+ turns out the gui was easy pyqt + pyqtgraph but handling input from many data sources was a bit of a pain so then i wrote a standardized experiment configuration file format using yaml that would contain all the relevant parameters for each experiment and make the various data sets easy to load into my gui for visualization 
+
+ what started as a small side project ended up being a large portion of my doctoral work and has now featured in a   number of publications for these experiments 
+
+ github please](https://www.github.com / mgrady3 / please 
+
+ ps give job pls","lot data analyze resulting number electron microscopy experiments 
+
+  got tired image software like imagej fiji gimp view images look interesting features gather list x y coordinates interesting features passed python script produce plots features 
+
+  figured pretty straightforward wrap entire analysis process nice gui 
+
+  turns gui easy pyqt + pyqtgraph handling input data sources bit pain wrote standardized experiment configuration file format yaml contain relevant parameters experiment data sets easy load gui visualization 
+
+  started small project ended large portion doctoral work featured    number publications experiments 
+
+  github please](https://www.github.com / mgrady3 / 
+
+  ps job pls","lot datum analyze result number electron microscopy experiment 
+
+   get tired image software like imagej fiji gimp view image look interesting feature gather list x y coordinate interesting feature pass python script produce plot feature 
+
+   figure pretty straightforward wrap entire analysis process nice gui 
+
+   turn gui easy pyqt + pyqtgraph handling input datum source bit pain write standardize experiment configuration file format yaml contain relevant parameter experiment data set easy load gui visualization 
+
+   start small project end large portion doctoral work feature     number publication experiment 
+
+   github please](https://www.github.com / mgrady3 / 
+
+   ps job pls",en
+i made this weather script that goes online retrieves a gif slices it up edits it then projects it onto a 3d sphere so i can see the entire globe 's weather and rotate it around like in google earth i 'm pretty sure g. earth had a similar feature already but it was great practice,weather script goes online retrieves gif slices edits projects 3d sphere entire globe weather rotate like google earth ' m pretty sure g. earth similar feature great practice,weather script go online retrieve gif slice edit project 3d sphere entire globe weather rotate like google earth ' m pretty sure g. earth similar feature great practice,en
+"nowhere near as exotic as toilets or traffic lights but 
+
+ i used aweber for a mailing list and hated it i switched to mailchimp but i did n't want to lose a year of archived newsletters so i wrote a script to 
+
+ download each newsletter from the aweber archive 
+ parse it for pictures 
+ download and save the pictures 
+ replace the < img src= links in the html 
+ add home / prev /next links at the top 
+
+ then i uploaded all the pages and images to my server and made a wordpress page 
+
+ i then did the same for mailchimp 's archive with the addition of 
+
+ skipping already archived newsletters 
+ uploading the newletter(s via ftp 
+ uploading the images via ftp 
+
+ so now i have an integrated archive](http://philandmaude.com / archives/2017 03 19-why_being_all_in_is_important_for_your_relationship.html i still have to manually add the latest link to my wordpress archive page 
+","near exotic toilets traffic lights 
+
+  aweber mailing list hated switched mailchimp want lose year archived newsletters wrote script 
+
+  download newsletter aweber archive 
+  parse pictures 
+  download save pictures 
+  replace < img src= links html 
+  add home / prev /next links 
+
+  uploaded pages images server wordpress page 
+
+  mailchimp archive addition 
+
+  skipping archived newsletters 
+  uploading newletter(s ftp 
+  uploading images ftp 
+
+  integrated archive](http://philandmaude.com / archives/2017 03 19-why_being_all_in_is_important_for_your_relationship.html manually add latest link wordpress archive page 
+","near exotic toilet traffic light 
+
+   aweber mailing list hate switch mailchimp want lose year archive newsletter write script 
+
+   download newsletter aweber archive 
+   parse pictures 
+   download save picture 
+   replace < img src= link html 
+   add home / prev /next link 
+
+   uploaded page image server wordpress page 
+
+   mailchimp archive addition 
+
+   skip archived newsletter 
+   upload newletter(s ftp 
+   upload image ftp 
+
+   integrated archive](http://philandmaude.com / archives/2017 03 19-why_being_all_in_is_important_for_your_relationship.html manually add late link wordpress archive page 
+",en
+"in my last year of college i used an rpi and some fancy sensors to monitor the temperature and ph of pig shit in a drum 
+
+ it would also log the records and send a text to my engineer roommate if either raised above a certain threshold 
+
+ apparently he was using said pig shit for a proof of concept that could provide renewable low cost energy from the methane and fertilizer obviously to farmers in developing countries 
+
+ it was cool to know that my code was being used for something that could genuinely help people down the road and it was a great help when applying for my current job where i work on a network monitoring application since i had experience with timeseries and alerting","year college rpi fancy sensors monitor temperature ph pig shit drum 
+
+  log records send text engineer roommate raised certain threshold 
+
+  apparently said pig shit proof concept provide renewable low cost energy methane fertilizer obviously farmers developing countries 
+
+  cool know code genuinely help people road great help applying current job work network monitoring application experience timeseries alerting","year college rpi fancy sensor monitor temperature ph pig shit drum 
+
+   log record send text engineer roommate raise certain threshold 
+
+   apparently say pig shit proof concept provide renewable low cost energy methane fertilizer obviously farmer develop country 
+
+   cool know code genuinely help people road great help apply current job work network monitor application experience timeserie alert",en
+"i wanted to learn about creating video files via code so i wrote something to automate scraping photos and text and compose them into a video slideshow to upload to youtube   so far it has created about 700 videos on my channel 
+
+ edit channel is https://www.youtube.com/channel/ucmztms0qmei4hog0ttc4h9a 
+
+ code is on github https://github.com/mfwarren/yachtpromo","wanted learn creating video files code wrote automate scraping photos text compose video slideshow upload youtube    far created 700 videos channel 
+
+  edit channel https://www.youtube.com/channel/ucmztms0qmei4hog0ttc4h9a 
+
+  code github https://github.com/mfwarren/yachtpromo","want learn create video file code write automate scrape photo text compose video slideshow upload youtube     far create 700 video channel 
+
+   edit channel https://www.youtube.com/channel/ucmztms0qmei4hog0ttc4h9a 
+
+   code github https://github.com/mfwarren/yachtpromo",en
+script that scrapes my league 's fantasy football website after kickoff of each game and generates an html page that displays real time scores which it then uploads via ftp to my site,script scrapes league fantasy football website kickoff game generates html page displays real time scores uploads ftp site,script scrapes league fantasy football website kickoff game generate html page display real time score upload ftp site,en
+"i work for inonline e - commerce on a shipping team we get an ungodly amount of issues with shipping carriers and the files they provide   detailing our label purchases i had never touched python before i started working at this company but i quickly realized i needed a way to parse edit and compare csv files 
+
+ with a generalized script that i would modify depending on what i needed to do i cut down the time i had to spend on most issues by around 90 % 
+
+ i eventually started using this script to put our acceptance testing results into an excel document due to the large number of tests and the amount of verification we had to give this could take a few days just to show one file behaved as expected now i can run files and in under 2 seconds put together an in depth breakdown of the results 
+
+ maybe not super cool but the amount of time it saves me is unbelievable","work inonline e - commerce shipping team ungodly issues shipping carriers files provide    detailing label purchases touched python started working company quickly realized needed way parse edit compare csv files 
+
+  generalized script modify depending needed cut time spend issues 90 % 
+
+  eventually started script acceptance testing results excel document large number tests verification days file behaved expected run files 2 seconds depth breakdown results 
+
+  maybe super cool time saves unbelievable","work inonline e - commerce shipping team ungodly issue ship carrier file provide     detail label purchase touch python start work company quickly realize need way parse edit compare csv file 
+
+   generalize script modify depend need cut time spend issue 90 % 
+
+   eventually start script acceptance testing result excel document large number test verification day file behave expect run file 2 second depth breakdown result 
+
+   maybe super cool time save unbelievable",en
+i 'm very new to python and recently made a program to calculate the determinant of a matrix yesterday tried to run it with 100x100 square matrix overnight and it did nt complete,' m new python recently program calculate determinant matrix yesterday tried run 100x100 square matrix overnight nt complete,' m new python recently program calculate determinant matrix yesterday try run 100x100 square matrix overnight nt complete,en
+one of the first things i wrote in python was a script that checks my network and uses wakeonlan to power up my pc when i get home,things wrote python script checks network uses wakeonlan power pc home,thing write python script checks network use wakeonlan power pc home,en
+"for any midwesterners who know / love the game euchre 
+
+ i made a program that observes the user 's play pattern then runs that play pattern thousands of times and recursively finds the errors in their patterns that are causing them to lose games","midwesterners know / love game euchre 
+
+  program observes user play pattern runs play pattern thousands times recursively finds errors patterns causing lose games","midwesterner know / love game euchre 
+
+   program observe user play pattern run play pattern thousand time recursively find error pattern cause lose game",en
+"my father asked me to help my lil bro with his math homework and i hate making stupid exercises that he 'll solve faster than i can make them 
+
+ so i wrote a script that generates elementary school homework with correct answer for checking and since it 's randomly generated he has no excuses 
+
+ so a+ for programming but f for being a bro lol","father asked help lil bro math homework hate making stupid exercises solve faster 
+
+  wrote script generates elementary school homework correct answer checking randomly generated excuses 
+
+  a+ programming f bro lol","father ask help lil bro math homework hate make stupid exercise solve faster 
+
+   write script generate elementary school homework correct answer check randomly generate excuse 
+
+   a+ programming f bro lol",en
+i had to do a boatload of data recovery for files that came from a red camera proprietary format as it goes data recovery tools do n't preserve file names just file001.r3d file002.r3d etc but i discovered that the file extension is stored in the metadata which is always within the first 1000 bytes of the file the python script would scan the for 1000 bytes of every file that was recovered and find the extension copy the entire file name and rename the file i only ever used this script once on one gig but it saved me a ton of time and saved my bacon python ftw,boatload data recovery files came red camera proprietary format goes data recovery tools preserve file names file001.r3d file002.r3d etc discovered file extension stored metadata 1000 bytes file python script scan 1000 bytes file recovered find extension copy entire file rename file script gig saved ton time saved bacon python ftw,boatload data recovery file come red camera proprietary format go data recovery tool preserve file name file001.r3d file002.r3d etc discover file extension store metadata 1000 bytes file python script scan 1000 byte file recover find extension copy entire file rename file script gig save ton time save bacon python ftw,en
+i wrote a script to go to facebook daily and post birthday messages on the relevant friends walls if unable to post it sends the message using messenger,wrote script facebook daily post birthday messages relevant friends walls unable post sends message messenger,write script facebook daily post birthday message relevant friend wall unable post send message messenger,en
+i forked an older version](https://github.com / jbmorley / showrss of a github repo that has a script that kicks off torrent downloads via my newshowrss](http://new.showrss.info feed   my version is here](https://github.com / zyocum / newshowrss   i run this script with launchd every half hour you can do the same thing with cron   this way my tv shows are always automatically downloaded for me   all i have to do is manage my subscriptions in my newshowrss account,forked older version](https://github.com / jbmorley / showrss github repo script kicks torrent downloads newshowrss](http://new.showrss.info feed    version here](https://github.com / zyocum / newshowrss    run script launchd half hour thing cron    way tv shows automatically downloaded    manage subscriptions newshowrss account,fork old version](https://github.com / jbmorley / showrss github repo script kick torrent download newshowrss](http://new.showrss.info feed     version here](https://github.com / zyocum / newshowrss     run script launchd half hour thing cron     way tv show automatically download     manage subscription newshowrss account,en
+"does a half finished project count i downloaded the local state voter registration dataset publicly available upon request for one of my employers used flask to create a front end that could be used to query the data in accordance to specific needs such as age and zip code data was used to create leads for insurance 
+
+ the automation part well that 's the work in progress create an api along side the web interface and combined it with a process that queries the voip api of said employer when a new call comes it tries to find a match on the voter registration dataset 35 % of voters provided a phone number and gives the person on the phone all the available information also looking for other interfaces to compliment the 65 % lacking phone numbers","half finished project count downloaded local state voter registration dataset publicly available request employers flask create end query data accordance specific needs age zip code data create leads insurance 
+
+  automation work progress create api web interface combined process queries voip api said employer new comes tries find match voter registration dataset 35 % voters provided phone number gives person phone available information looking interfaces compliment 65 % lacking phone numbers","half finished project count download local state voter registration dataset publicly available request employer flask create end query datum accordance specific need age zip code datum create lead insurance 
+
+   automation work progress create api web interface combine process query voip api say employer new come try find match voter registration dataset 35 % voter provide phone number give person phone available information look interface compliment 65 % lack phone number",en
+collecting episode names and numbers from tv series taking information from imdb and then consistenly renaming the cough found episodes i have saved in a way that does n't offend my ocd d,collecting episode names numbers tv series taking information imdb consistenly renaming cough found episodes saved way offend ocd d,collect episode name number tv series take information imdb consistenly rename cough find episode save way offend ocd d,en
+i wrote a script that logs into my school 's d2l online learning site scraped all my assignments and their due dates and used the todoist api to put them into my todoist by class so i never miss a due date again runs on a cron job each morning,wrote script logs school d2l online learning site scraped assignments dates todoist api todoist class miss date runs cron job morning,write script logs school d2l online learning site scrape assignment date todoist api todoist class miss date run cron job morning,en
+"i wrote a script that automates my instagram account to get more attention to it i likes follows and comments on posts can check the images with the clarify api to prevent unwanted images to be liked 
+ here 's the code https://github.com/timgrossmann/instapy","wrote script automates instagram account attention likes follows comments posts check images clarify api prevent unwanted images liked 
+  code https://github.com/timgrossmann/instapy","write script automate instagram account attention like follow comment post check image clarify api prevent unwanted image like 
+   code https://github.com/timgrossmann/instapy",en
+at work i use python to make spam classifiers topic modelers automated excel report generators and many other things personally i also use it for my website and for e.g. clustering text and text data analysis,work use python spam classifiers topic modelers automated excel report generators things personally use website e.g. clustering text text data analysis,work use python spam classifiers topic modeler automate excel report generator thing personally use website e.g. cluster text text datum analysis,en
+"two things 
+
+ first i made a really party piece by sticking together a rpi a power bank a heart rate monitor w / dongle and a pretty led array i made a christmas light for my shirt that oscillated in tune with my heart beats 
+
+ second i 've automated the data analysis and output pdf text reports from periodical testing of medical equipment by creating a sqlite database of all equipment / tests tkinter gui and excel interface it saves a lot of time","things 
+
+  party piece sticking rpi power bank heart rate monitor w / dongle pretty led array christmas light shirt oscillated tune heart beats 
+
+  second ' ve automated data analysis output pdf text reports periodical testing medical equipment creating sqlite database equipment / tests tkinter gui excel interface saves lot time","thing 
+
+   party piece stick rpi power bank heart rate monitor w / dongle pretty lead array christmas light shirt oscillate tune heart beat 
+
+   second ' ve automate data analysis output pdf text report periodical test medical equipment create sqlite database equipment / test tkinter gui excel interface save lot time",en
+"i started as a structural engineer and got into automation and python from there 
+
+ i wrote a data processor that builds a 3d finite element model from planar autocad drawings assigns material properties from a configurable rule sheet does all sorts of transformations like sewing together nodes of the model at a given tolerance setting up edge conditions by a rule configuration cleaning up potentially bad fe elements transforming coordinate systems from planar to spherical and cylindrical adding a 3d mesh through meshpy and writing it all to a format used in the industry for eventual analysis 
+
+ it 's used for structural analysis of ukraine 's nuclear power plants i 'm pretty proud of it since it was my first real python product","started structural engineer got automation python 
+
+  wrote data processor builds 3d finite element model planar autocad drawings assigns material properties configurable rule sheet sorts transformations like sewing nodes model given tolerance setting edge conditions rule configuration cleaning potentially bad fe elements transforming coordinate systems planar spherical cylindrical adding 3d mesh meshpy writing format industry eventual analysis 
+
+  structural analysis ukraine nuclear power plants ' m pretty proud real python product","start structural engineer get automation python 
+
+   write datum processor builds 3d finite element model planar autocad drawings assign material property configurable rule sheet sort transformation like sewing node model give tolerance set edge condition rule configuration clean potentially bad fe element transform coordinate system planar spherical cylindrical add 3d mesh meshpy writing format industry eventual analysis 
+
+   structural analysis ukraine nuclear power plant ' m pretty proud real python product",en
+itt no one 's linking their code,itt linking code,itt link code,en
+"i wrote a simple web scraper that scraped a couple of my fave sites for new articles and then sent them to my pocket account i used amazon lambda to run it on a daily basis 
+
+ it 's still running now even though i 've stopped using it after the subway got wifi","wrote simple web scraper scraped couple fave sites new articles sent pocket account amazon lambda run daily basis 
+
+  running ' ve stopped subway got wifi","write simple web scraper scrape couple fave site new article send pocket account amazon lambda run daily basis 
+
+   run ' ve stop subway get wifi",en
+i needed to enter a lot of itunes app details in a wordpress blog with no api access so i wrote a script that parsed the itunes destination urls with beautiful soup and used selenium to enter the data as new posts i also use a small python script to convert a csv into invoices i 'm a consultant so need to create lots of invoices,needed enter lot itunes app details wordpress blog api access wrote script parsed itunes destination urls beautiful soup selenium enter data new posts use small python script convert csv invoices ' m consultant need create lots invoices,need enter lot itune app details wordpress blog api access write script parse itunes destination urls beautiful soup selenium enter datum new post use small python script convert csv invoice ' m consultant nee create lot invoice,en
+automating things with python is basically my job description lately i 've been getting a bunch of our tools working on farm machines so we can trigger them when artists check files into perforce,automating things python basically job description lately ' ve getting bunch tools working farm machines trigger artists check files perforce,automate thing python basically job description lately ' ve get bunch tool work farm machine trigger artist check file perforce,en
+"i work for a city making maps and map data for a project recently we had to determine for 17,000 street segments which reporting area was on their left and right sides for most streets both would be the same but the reporting district boundaries often run in the middle of streets i 'm using the arcpy module which is great but does n't natively include a way to tell what 's on the left and right side of a street line 
+
+ i wrote a bit of code into the data update script to take the street 's first last and middle points and created points 10 feet to the left and right of the midpoint these points then queried the layer of reporting districts and fed this information back to the line 
+
+ i did have some trouble with some streets dividing by zero because roundabouts at the ends of cul de sacs were sometimes represented in our data as teardrop shaped loops so they had the same first and end points for lines where the beginning and end were the same left became the inside of the loop and right became the outside and problem solved it was a really neat exercise and one i 'm pretty proud of","work city making maps map data project recently determine 17,000 street segments reporting area left right sides streets reporting district boundaries run middle streets ' m arcpy module great natively include way tell left right street line 
+
+  wrote bit code data update script street middle points created points 10 feet left right midpoint points queried layer reporting districts fed information line 
+
+  trouble streets dividing zero roundabouts ends cul de sacs represented data teardrop shaped loops end points lines beginning end left inside loop right outside problem solved neat exercise ' m pretty proud","work city making map map data project recently determine 17,000 street segment report area leave right side street report district boundary run middle street ' m arcpy module great natively include way tell leave right street line 
+
+   write bit code data update script street middle point create point 10 foot leave right midpoint point query layer reporting district feed information line 
+
+   trouble street divide zero roundabout end cul de sacs represent datum teardrop shape loop end point line begin end leave inside loop right outside problem solve neat exercise ' m pretty proud",en
+"i wrote a script that takes a har](https://en.wikipedia.org / wiki/.har file 's contents in chrome dev tool 's network tab right click a request and you can get everything in this format and creates a browseable static website 
+
+ i used it to test fairly complex web apps on old phones that do n't have wifi and could n't access the internal network","wrote script takes har](https://en.wikipedia.org / wiki/.har file contents chrome dev tool network tab right click request format creates browseable static website 
+
+  test fairly complex web apps old phones wifi access internal network","write script take har](https://en.wikipedia.org / wiki/.har file content chrome dev tool network tab right click request format create browseable static website 
+
+   test fairly complex web app old phone wifi access internal network",en
+"i recently wrote a webscraper that downloads the first 150 results of a google scholar search and puts them in an excel file article name author year link and number of citations 
+ it 's not really that useful but it makes the results sortable by number of citations which can be quite nice 
+
+ also it runs through all the titles and outputs the most used keywords besides the ones you searched for also which authors are most present within the first 150 results 
+
+ i find it an interesting starting point when beginning with my literature review on a new topic","recently wrote webscraper downloads 150 results google scholar search puts excel file article author year link number citations 
+  useful makes results sortable number citations nice 
+
+  runs titles outputs keywords ones searched authors present 150 results 
+
+  find interesting starting point beginning literature review new topic","recently write webscraper download 150 result google scholar search put excel file article author year link number citation 
+   useful make result sortable number citation nice 
+
+   run title output keywords one search author present 150 result 
+
+   find interesting starting point begin literature review new topic",en
+several years ago after i moved i built a script that published a feed monitoring craigslist free for stuff i might be interested in nearby,years ago moved built script published feed monitoring craigslist free stuff interested nearby,year ago move build script publish feed monitoring craigslist free stuff interested nearby,en
+an all in one downloader i download images a lot so i figured i should might as well work on automating it it basically scans several websites including reddit subreddits i 've set up and downloads off of them by found tags danbooru zerochan etc it sorts the artworks and distributes them to their respective folders also added support for 4chan threads last year other settings include how many images per day max filesize and separates by nsfw / sfw content the interface is n't really anything to write home about since i 'm far from a competent designer but i did my best simple and fairly straightforward   i know a lot of people have done this already but this is just something i wanted to work on by myself,downloader download images lot figured work automating basically scans websites including reddit subreddits ' ve set downloads found tags danbooru zerochan etc sorts artworks distributes respective folders added support 4chan threads year settings include images day max filesize separates nsfw / sfw content interface write home ' m far competent designer best simple fairly straightforward    know lot people wanted work,downloader download image lot figure work automate basically scan website include reddit subreddit ' ve set download find tag danbooru zerochan etc sort artworks distribute respective folder add support 4chan thread year setting include image day max filesize separate nsfw / sfw content interface write home ' m far competent designer best simple fairly straightforward     know lot people want work,en
+i work full time and i always use same charge code at work so i used python wrote simple script where it logins to our work website put my time in and save i set cronjob where this script run m f at 5 pm on my script friday i save and submit my timesheet once its submit i get text message using twilio,work time use charge code work python wrote simple script logins work website time save set cronjob script run m f 5 pm script friday save submit timesheet submit text message twilio,work time use charge code work python write simple script login work website time save set cronjob script run m f 5 pm script friday save submit timesheet submit text message twilio,en
+dragon naturally speaking + dragonfly / python = automate almost anything,dragon naturally speaking + dragonfly / python = automate,dragon naturally speak + dragonfly / python = automate,en
+"there 's a couple that are n't exciting or useful to anyone but i 'll say anyway 
+
+ 1 i run an ecommerce site one supplier sends their inventory in an excel sheet i wrote a script that logged into gmail searched for the subject line they always used imaplib](https://docs.python.org/2 / library / imaplib.html downloaded the attachment opened the excel file openpyxl](http://openpyxl.readthedocs.io / en / default/ went down the sku column grabbed the stock level from the next column updated the mysql database pymysql](https://pypi.python.org / pypi / pymysql/ with the stock level if new unknown skus were found it emailed me smtplib](https://docs.python.org/2 / library / smtplib.html the new sku codes so i knew i had to add the products the data was often scattered across multiple sites and required manual pricing so that could n't be automated 
+ 2 the same site at the end of the day when the courier had come to pick up the days deliveries a script would run that logged into the courier 's site mechanize](https://pypi.python.org / pypi / mechanize/ grabbed the manifest page which had all the order numbers under the reference column we entered them when making the courier booking it logged into the ecommerce site via the web went to the orders page and set the corresponding order to sent which triggered an order sent email to the customer that 's why i did n't just do it via the database that would n't have triggered the email 
+
+ \ as much as i 'd have loved to automate the courier booking they used a fucking nightmare java app embedded in their website that required ie7 and at the time i could n't figure a way to automate using it you wo n't be surprised to know the courier went bust a few years later","couple exciting useful 
+
+  1 run ecommerce site supplier sends inventory excel sheet wrote script logged gmail searched subject line imaplib](https://docs.python.org/2 / library / imaplib.html downloaded attachment opened excel file openpyxl](http://openpyxl.readthedocs.io / en / default/ went sku column grabbed stock level column updated mysql database pymysql](https://pypi.python.org / pypi / pymysql/ stock level new unknown skus found emailed smtplib](https://docs.python.org/2 / library / smtplib.html new sku codes knew add products data scattered multiple sites required manual pricing automated 
+  2 site end day courier come pick days deliveries script run logged courier site mechanize](https://pypi.python.org / pypi / mechanize/ grabbed manifest page order numbers reference column entered making courier booking logged ecommerce site web went orders page set corresponding order sent triggered order sent email customer database triggered email 
+
+  \ loved automate courier booking fucking nightmare java app embedded website required ie7 time figure way automate wo surprised know courier went bust years later","couple exciting useful 
+
+   1 run ecommerce site supplier send inventory excel sheet write script log gmail search subject line imaplib](https://docs.python.org/2 / library / imaplib.html download attachment open excel file openpyxl](http://openpyxl.readthedocs.io / en / default/ go sku column grab stock level column update mysql database pymysql](https://pypi.python.org / pypi / pymysql/ stock level new unknown skus find email smtplib](https://docs.python.org/2 / library / smtplib.html new sku code know add product datum scatter multiple site require manual pricing automate 
+   2 site end day courier come pick day delivery script run log courier site mechanize](https://pypi.python.org / pypi / mechanize/ grab manifest page order number reference column enter make courier booking log ecommerce site web go order page set correspond order send trigger order send email customer database trigger email 
+
+   \ love automate courier book fucking nightmare java app embed website require ie7 time figure way automate wo surprised know courier go bust year later",en
+"we had this garbage program at work that we had to deploy through i timed one of my friends who had a complicated set of projects to deploy it took him 15 minutes of machine gun clicking to deploy his project it was ridiculous 
+
+ i wrote a script that interfaced with the win32api to 
+
+ find the window 
+ if it existed bring it to the front 
+ launch if not 
+ focus on the right part of the window 
+ send the clicks / keypresses to find all the project files & push them to the build 
+ run the build program 
+ do basically the same thing but now build the projects 
+
+ so now he can sit and watch his computer spazz out for 15 minutes instead","garbage program work deploy timed friends complicated set projects deploy took 15 minutes machine gun clicking deploy project ridiculous 
+
+  wrote script interfaced win32api 
+
+  find window 
+  existed bring 
+  launch 
+  focus right window 
+  send clicks / keypresses find project files & push build 
+  run build program 
+  basically thing build projects 
+
+  sit watch computer spazz 15 minutes instead","garbage program work deploy timed friend complicate set project deploy take 15 minute machine gun click deploy project ridiculous 
+
+   write script interface win32api 
+
+   find window 
+   exist bring 
+   launch 
+   focus right window 
+   send click / keypresse find project file & push build 
+   run build program 
+   basically thing build project 
+
+   sit watch computer spazz 15 minute instead",en
+i wrote a script to run an automated speedtest every 30 minutes from and perform a traceroute to the websites i was seeing lag on in order to check whether i was throttled by my isp and if yes where they were bottlenecking nodes were,wrote script run automated speedtest 30 minutes perform traceroute websites seeing lag order check throttled isp yes bottlenecking nodes,write script run automate speedtest 30 minute perform traceroute website see lag order check throttle isp yes bottleneck node,en
+i wrote 50 web scrappers to monitors house rents all around europe parts of the results are here http://www.rentswatch.com,wrote 50 web scrappers monitors house rents europe parts results http://www.rentswatch.com,write 50 web scrapper monitor house rents europe part result http://www.rentswatch.com,en
+nothing too fancy but i 've used the pil library to automate producing promotional materials for map prints that i list on an etsy store it automatically produces images of a range of sizes inserts them into a nice looking frame adds optional text i.e. city names and extracts a series of zoomed in detailed shots of each item it saves me about 30 minutes of work for each item i list online,fancy ' ve pil library automate producing promotional materials map prints list etsy store automatically produces images range sizes inserts nice looking frame adds optional text i.e. city names extracts series zoomed detailed shots item saves 30 minutes work item list online,fancy ' ve pil library automate produce promotional material map print list etsy store automatically produce image range size insert nice looking frame add optional text i.e. city names extracts series zoomed detailed shot item save 30 minute work item list online,en
+created a script that scrapes comics and reformats it to look like the comic section of a newspaper it then changes your desktop picture to the stitched comic strips everyday at midnight,created script scrapes comics reformats look like comic section newspaper changes desktop picture stitched comic strips everyday midnight,create script scrape comic_strip reformat look like comic section newspaper change desktop picture stitch comic strip everyday midnight,en
+"it might not really compare to the others here but it 's something that 10 year old me would 've been blown away by 
+
+ i wrote a script that took a txt file with a song list and downloaded them to mp3 files","compare 10 year old ' ve blown away 
+
+  wrote script took txt file song list downloaded mp3 files","compare 10 year old ' ve blow away 
+
+   write script take txt file song list download mp3 file",en
+not me but my coworker made a script that scraped amazon prime now and texted him when the nintendo switch was in stock,coworker script scraped amazon prime texted nintendo switch stock,coworker script scrape amazon prime texted nintendo switch stock,en
+"i made a web app to tell me the moon phase next sunrise sunset and some other info 
+
+ check it out 
+
+ http://radiancespectrumbook.com/planetary.html","web app tell moon phase sunrise sunset info 
+
+  check 
+
+  http://radiancespectrumbook.com/planetary.html","web app tell moon phase sunrise sunset info 
+
+   check 
+
+   http://radiancespectrumbook.com/planetary.html",en
+using flask and pushbullet and built my own personal api to ingest webhooks from various systems mostly it 's just for push notifications for activity on github but it 's pretty handy still,flask pushbullet built personal api ingest webhooks systems push notifications activity github pretty handy,flask pushbullet build personal api ingest webhook system push notification activity github pretty handy,en
+"i have recently automated the installation of a custom linux on an embedded device raspberry just wait 15 - 20 minutes and you have your sd card with a cross - compiler 
+ easy to customise something easy to debug with python if something goes wrong i just love automate things with this language d","recently automated installation custom linux embedded device raspberry wait 15 - 20 minutes sd card cross - compiler 
+  easy customise easy debug python goes wrong love automate things language d","recently automate installation custom linux embed device raspberry wait 15 - 20 minute sd card cross - compiler 
+   easy customise easy debug python go wrong love automate thing language d",en
+i made a script that stitched some scanned images together in the correct order there 's got ta be at least one lame answer,script stitched scanned images correct order got ta lame answer,script stitch scanned image correct order get ta lame answer,en
+"at work it 's been used for build systems for years made sense as an orchestrator also used for bundling disaggregated software components 
+
+ at home the only thing i 've done that i used for any length of time was a split purchase tax calculator i used this with ynab for awhile before i realized classic had this built in i 'll probably make it a little easier to use at some point to feed into the new ynab which does n't do this 
+
+ edit actually my favorite work script was migrating repos from github.com to an internal github enterprise handled grabbing all repositories and forks with the right relationships it did n't deal with forks of forks but there were few enough for it to be relatively painless to do manually","work build systems years sense orchestrator bundling disaggregated software components 
+
+  home thing ' ve length time split purchase tax calculator ynab awhile realized classic built probably little easier use point feed new ynab 
+
+  edit actually favorite work script migrating repos github.com internal github enterprise handled grabbing repositories forks right relationships deal forks forks relatively painless manually","work build system year sense orchestrator bundle disaggregate software component 
+
+   home thing ' ve length time split purchase tax calculator ynab awhile realize classic build probably little easy use point feed new ynab 
+
+   edit actually favorite work script migrate repos github.com internal github enterprise handle grabbing repository fork right relationship deal fork fork relatively painless manually",en
+i wrote a program that generates a nice report showing all of the electrical testpoints on the circuit boards i design at work used to take me the better part of a day to write by hand now i can generate a nice formatted report to share with technicians and contract manufacturers in about two minutes,wrote program generates nice report showing electrical testpoints circuit boards design work better day write hand generate nice formatted report share technicians contract manufacturers minutes,write program generate nice report show electrical testpoint circuit board design work well day write hand generate nice format report share technician contract manufacturer minute,en
+not as impressive as some of the other scripts out here but i automated my compilation of my wip thesis i write each section as a separate markdown file convert it to latex with pandoc and then compile the created latex files into a pdf finally i made the whole script executable through invoke probably wasted a bit too much time on it but it did change the compilation from a chore to a satisfying experience,impressive scripts automated compilation wip thesis write section separate markdown file convert latex pandoc compile created latex files pdf finally script executable invoke probably wasted bit time change compilation chore satisfying experience,impressive script automate compilation wip thesis write section separate markdown file convert latex pandoc compile create latex file pdf finally script executable invoke probably waste bit time change compilation chore satisfy experience,en
+remembered about this https://www.reddit.com/r/python/comments/308ucq/how_do_you_use_python_to_automate_tasks_in_life/cpqcegz/,remembered https://www.reddit.com/r/python/comments/308ucq/how_do_you_use_python_to_automate_tasks_in_life/cpqcegz/,remember https://www.reddit.com/r/python/comments/308ucq/how_do_you_use_python_to_automate_tasks_in_life/cpqcegz/,en
+"automated gnucash file generation using python not really that impressive simple xml generation 
+
+ until i started adding shit like 
+
+ being able to read a csv file i exported from my bank 's site and auto mark transactions cleared 
+
+ generating an excel sheet on how much i owe on my loans 
+
+ calculating if i can pay my debt off early and if so add the transaction to the gnucash document 
+
+ adding payments and transfers if my credit card reaches its limit or my checking account dips to zero 
+
+ detects if my savings account is below the preset amount at the beginning of the year and if so add a transaction whenever i can afford it to get it back up to par 
+
+ y'know simple stuff","automated gnucash file generation python impressive simple xml generation 
+
+  started adding shit like 
+
+  able read csv file exported bank site auto mark transactions cleared 
+
+  generating excel sheet owe loans 
+
+  calculating pay debt early add transaction gnucash document 
+
+  adding payments transfers credit card reaches limit checking account dips zero 
+
+  detects savings account preset beginning year add transaction afford par 
+
+  y'know simple stuff","automate gnucash file generation python impressive simple xml generation 
+
+   start add shit like 
+
+   able read csv file export bank site auto mark transaction clear 
+
+   generate excel sheet owe loan 
+
+   calculate pay debt early add transaction gnucash document 
+
+   add payment transfer credit card reach limit checking account dip zero 
+
+   detect saving account preset beginning year add transaction afford par 
+
+   y'know simple stuff",en
+finding a flat in munich,finding flat munich,find flat munich,en
+"a 1990s electronic knitting machine 
+
+ https://github.com/borgstrom/knitterstream","1990s electronic knitting machine 
+
+  https://github.com/borgstrom/knitterstream","1990s electronic knit machine 
+
+   https://github.com/borgstrom/knitterstream",en
+"i learned python primarily by automating my account on an old text based online game that the admin had given up on 
+
+ web scraping and working through web forms is pretty fun and there 's loads of useful tutorials online for how to do it","learned python primarily automating account old text based online game admin given 
+
+  web scraping working web forms pretty fun loads useful tutorials online","learn python primarily automate account old text base online game admin give 
+
+   web scrape work web form pretty fun load useful tutorial online",en
+"had a script that would parse large xml files lte configuration files with varying attributes per element into csv format 
+
+ some of these attributes gps azimuth tilt etc were to optimize a new site or the entire network to ensure that the pcis physical cell ids were as unique as possible if the pci had to be re - used the script would ensure that they 're physically as far away from each other as possible to ensure there 's no interference 
+
+ finally once the optimization was completed it would generate the necessary xml config files to provision the changes required on the lte / umts / gsm networks","script parse large xml files lte configuration files varying attributes element csv format 
+
+  attributes gps azimuth tilt etc optimize new site entire network ensure pcis physical cell ids unique possible pci - script ensure physically far away possible ensure interference 
+
+  finally optimization completed generate necessary xml config files provision changes required lte / umts / gsm networks","script parse large xml file lte configuration file varying attribute element csv format 
+
+   attribute gps azimuth tilt etc optimize new site entire network ensure pcis physical cell ids unique possible pci - script ensure physically far away possible ensure interference 
+
+   finally optimization complete generate necessary xml config file provision change require lte / umts / gsm network",en
+plexpy notifications and other stuff pulling photos and videos from google drive photos into /year / month day directory structure mapping traceroute hops and organizing .txt dumps into copy / paste able friendly commands for network admin friends reverse dns rules updates etc,plexpy notifications stuff pulling photos videos google drive photos /year / month day directory structure mapping traceroute hops organizing .txt dumps copy / paste able friendly commands network admin friends reverse dns rules updates etc,plexpy notifications stuff pull photo video google drive photo /year / month day directory structure mapping traceroute hop organize .txt dump copy / paste able friendly command network admin friend reverse dns rule update etc,en
+"i wrote a script that scrapes the dutch equivalent of ebay for iphones that are sold below their actual worth(and notifies me by email 
+
+ the actual worth is determined by analyzing all of the downloaded data that is saved to a database so i can measure developments over time","wrote script scrapes dutch equivalent ebay iphones sold actual worth(and notifies email 
+
+  actual worth determined analyzing downloaded data saved database measure developments time","write script scrape dutch equivalent ebay iphone sell actual worth(and notify email 
+
+   actual worth determine analyze download datum save database measure development time",en
+wrote a script which makes facebook posts in my group at certain points of time people still think that its a real person and not a bot posting these,wrote script makes facebook posts group certain points time people think real person bot posting,write script make facebook post group certain point time people think real person bot posting,en
+an automated malware analysis system for checking android apks for malicious behavior,automated malware analysis system checking android apks malicious behavior,automated malware analysis system check android apks malicious behavior,en
+"my first script was to create a batch file that would then run a command line application provided by a vendor to convert plc code from the native format to plain text and xml all of my plc code is sitting in a number of folders so i scan through each of the folders grab the path\plc and append a file with the correctly formatted command line that would run after completing the scan all of the previous converted files would be removed and the new copied in its place with a similar folder structure on a different share 
+","script create batch file run command line application provided vendor convert plc code native format plain text xml plc code sitting number folders scan folders grab path\plc append file correctly formatted command line run completing scan previous converted files removed new copied place similar folder structure different share 
+","script create batch file run command line application provide vendor convert plc code native format plain text xml plc code sit number folder scan folder grab path\plc append file correctly format command line run complete scan previous converted file remove new copy place similar folder structure different share 
+",en
+given a list of transactions check every one of em if exists saves the invoice number and the status in a txt file it would usually take me 1 minute per transaction its done with selenium,given list transactions check em exists saves invoice number status txt file usually 1 minute transaction selenium,give list transaction check -PRON- exist save invoice number status txt file usually 1 minute transaction selenium,en
+"the only thing i 've recently written is a python script that downloads the source html from the jersey section of the phoenix suns ' team shop site and check to see if any black devin booker jerseys are available   the script then tweets if the black jersey is found or not 
+
+ but after reading what everyone else has done i feel inspired to automate something else","thing ' ve recently written python script downloads source html jersey section phoenix suns ' team shop site check black devin booker jerseys available    script tweets black jersey found 
+
+  reading feel inspired automate","thing ' ve recently write python script download source html jersey section phoenix suns ' team shop site check black devin booker jersey available     script tweets black jersey find 
+
+   reading feel inspire automate",en
+"oh boy a lot of stuff i wrote but before there was puppet and chef and salt i started writing such system my deal was to make it agentless 
+
+ i had practice in using dsls but thought i needed something more than that that stopped me in my tracks because i could n't use python in python eval is evil we do n't want scripts to run with elevated   privileges so i ran a js vm inside python however it was n't that effective as i wanted it to be 
+
+ still it is a finished product but i never used it 
+ it basically connects over ssh and runs a js script over output it could include scripts they were kept in a redis db i got stopped by js callbacks 
+
+ all of this worked with multiprocessing and gevent the jsonrpc2 interface has been handled by gevent with some jsonrpc2 wsgi blendin js has been a pydermonkey module running in a forked process with nobody user so it was pretty safe my platform limited me to pydermonkey could n't use v8 but it was enough as i did not need any dom parsing speed only raw js 
+
+ in hindsight i overshoot got dreamy about perspectives and ran a full stack different language inside python which was a bad idea should 've stick with dsls or yet better yaml and i could 've made the first puppet","oh boy lot stuff wrote puppet chef salt started writing system deal agentless 
+
+  practice dsls thought needed stopped tracks use python python eval evil want scripts run elevated    privileges ran js vm inside python effective wanted 
+
+  finished product 
+  basically connects ssh runs js script output include scripts kept redis db got stopped js callbacks 
+
+  worked multiprocessing gevent jsonrpc2 interface handled gevent jsonrpc2 wsgi blendin js pydermonkey module running forked process user pretty safe platform limited pydermonkey use v8 need dom parsing speed raw js 
+
+  hindsight overshoot got dreamy perspectives ran stack different language inside python bad idea ' ve stick dsls better yaml ' ve puppet","oh boy lot stuff write puppet chef salt start write system deal agentless 
+
+   practice dsl think need stop track use python python eval evil want script run elevate     privilege run js vm inside python effective want 
+
+   finished product 
+   basically connect ssh run js script output include script keep redi db get stop js callback 
+
+   work multiprocesse gevent jsonrpc2 interface handle gevent jsonrpc2 wsgi blendin js pydermonkey module run forked process user pretty safe platform limited pydermonkey use v8 need dom parse speed raw js 
+
+   hindsight overshoot get dreamy perspective run stack different language inside python bad idea ' ve stick dsl better yaml ' ve puppet",en
+subtitle downloader =) i 'm on mobile but if anyone is interested i can share the report address when @ home,subtitle downloader =) ' m mobile interested share report address @ home,subtitle downloader =) ' m mobile interested share report address @ home,en
+"when starting out with scrum me and my team struggled with digital vs. paper stories digital is easier to keep track of link to pull requests on github etc while paper stories rule when planning and to keep an overview on the scrum board 
+
+ now we 're using pivotal tracker pivotaltracker.com to create stories poker assign estimates digitally and then run my scripts that uses the pivotal api to get the stories and create a pdf with nicely laid out stories 8 per page labels are used to color part of each story so it 's easier to visually distinguish between projects a qr code is also included which is used by a very simple ios app i built to scan the stories and make changes to the story in pivotal start finish deliver etc 
+
+ it might sound a bit complicated but it works pretty well for us another team member has gone on to build a chrome cast app to make poker easier and i 'm also working on a cli wrapper for the pivotal api that i can use from my ipad because both the app and the website are impossibly slow on mobile devices","starting scrum team struggled digital vs. paper stories digital easier track link pull requests github etc paper stories rule planning overview scrum board 
+
+  pivotal tracker pivotaltracker.com create stories poker assign estimates digitally run scripts uses pivotal api stories create pdf nicely laid stories 8 page labels color story easier visually distinguish projects qr code included simple ios app built scan stories changes story pivotal start finish deliver etc 
+
+  sound bit complicated works pretty team member gone build chrome cast app poker easier ' m working cli wrapper pivotal api use ipad app website impossibly slow mobile devices","start scrum team struggle digital vs. paper story digital easy track link pull request github etc paper story rule planning overview scrum board 
+
+   pivotal tracker pivotaltracker.com create story poker assign estimate digitally run script use pivotal api story create pdf nicely lay story 8 page label color story easy visually distinguish project qr code include simple ios app build scan story change story pivotal start finish deliver etc 
+
+   sound bit complicated work pretty team member go build chrome cast app poker easy ' m work cli wrapper pivotal api use ipad app website impossibly slow mobile device",en
+"i wrote up a script that would email me a list of movies stored in my multimedia machine an old powerbook  
+
+ the way it worked is that i would have all the movies indexed in itunes on the powerbook the script would extract the xml list from itunes then sort and list them in an email to me   i think it ran on a cronjob scheduled for every 3 or 4 days   it was fun i even got to contribute to another person 's open source python project it was an itunes parser in python   also was able to make good use of my raspberry pi 
+
+ github home itunes library emailer](https://github.com / dpchu / home itunes library emailer 
+
+ this all came about because my wife kept on wanting to rent movies that we already had","wrote script email list movies stored multimedia machine old powerbook  
+
+  way worked movies indexed itunes powerbook script extract xml list itunes sort list email    think ran cronjob scheduled 3 4 days    fun got contribute person open source python project itunes parser python    able good use raspberry pi 
+
+  github home itunes library emailer](https://github.com / dpchu / home itunes library emailer 
+
+  came wife kept wanting rent movies","write script email list movie store multimedia machine old powerbook  
+
+   way work movie index itunes powerbook script extract xml list itunes sort list email     think run cronjob schedule 3 4 day     fun get contribute person open source python project itunes parser python     able good use raspberry pi 
+
+   github home itunes library emailer](https://github.com / dpchu / home itunes library emailer 
+
+   come wife keep want rent movie",en
+"i have a script that checks what the servers ip is and then if it does not match a dns record it gets updated 
+
+ i use this for my nas in case the dhcp changes the ip address because setting up the mac address tied to an ip was n't working on my router for some reason 
+
+ https://gist.github.com/gtmanfred/b2691c1d53a61b374f0a5d4cefa10e65 
+
+ also use it on my openvpn server but slightly different to update my home ip in case my provider updates the dhcp lease 
+
+","script checks servers ip match dns record gets updated 
+
+  use nas case dhcp changes ip address setting mac address tied ip working router reason 
+
+  https://gist.github.com/gtmanfred/b2691c1d53a61b374f0a5d4cefa10e65 
+
+  use openvpn server slightly different update home ip case provider updates dhcp lease 
+
+","script checks servers ip match dns record get update 
+
+   use nas case dhcp change ip address set mac address tie ip work router reason 
+
+   https://gist.github.com/gtmanfred/b2691c1d53a61b374f0a5d4cefa10e65 
+
+   use openvpn server slightly different update home ip case provider update dhcp lease 
+
+",en
+at an internship for a technology company i was given a large spreadsheet detailing all hardware needed for a specific project i was tasked with locating and downloading all relevant technical documents from the parts ' manufacturers ' website i wrote a few hundred lines of python to load the spreadsheet and automatically download and properly categorize the documentation needed in terms of time it payed for itself in just in just one project,internship technology company given large spreadsheet detailing hardware needed specific project tasked locating downloading relevant technical documents parts ' manufacturers ' website wrote lines python load spreadsheet automatically download properly categorize documentation needed terms time payed project,internship technology company give large spreadsheet detail hardware need specific project task locate download relevant technical document part ' manufacturer ' website write line python load spreadsheet automatically download properly categorize documentation need term time pay project,en
+i used python to pull rss feeds of cnn and fox then compare the headlines and notify my when a headline from both were similar my thought was to filter out all non news assuming an important enough news story would be covered my both networks using similar words in their headline,python pull rss feeds cnn fox compare headlines notify headline similar thought filter non news assuming important news story covered networks similar words headline,python pull rss feed cnn fox compare headline notify headline similar thought filter non news assume important news story cover network similar word headline,en
+"i had fun opening and closing my mothers blinds with servos when she was away not one person involved in the outcome 
+
+ perfect 
+
+ + twitter can do some mad shit if you hook it in tis cool when something on your desk moves when someone on the web tries to such odd 
+
+ + reddit also 
+
+ + pir sensors are good for simple home automation just be careful on the time delays","fun opening closing mothers blinds servos away person involved outcome 
+
+  perfect 
+
+  + twitter mad shit hook tis cool desk moves web tries odd 
+
+  + reddit 
+
+  + pir sensors good simple home automation careful time delays","fun open closing mother blind servos away person involve outcome 
+
+   perfect 
+
+   + twitt mad shit hook tis cool desk move web try odd 
+
+   + reddit 
+
+   + pir sensor good simple home automation careful time delay",en
+"only done it today but i 've just semi - automated trading on the fifa fut game i open up bronze card packs send them to my transfer pile and the code will go and check the web app for the current market value and list the card a good way to mine coins 
+
+ i also automated my football soccer predictions that get submitted to a league gain points for best predictions i scrape odds online to get the bookies favourite prices for correct score and parse that to create a text file i use workflow app then to retrieve the text file in dropbox to make a text message","today ' ve semi - automated trading fifa fut game open bronze card packs send transfer pile code check web app current market value list card good way coins 
+
+  automated football soccer predictions submitted league gain points best predictions scrape odds online bookies favourite prices correct score parse create text file use workflow app retrieve text file dropbox text message","today ' ve semi - automate trading fifa fut game open bronze card pack send transfer pile code check web app current market value list card good way coin 
+
+   automate football soccer prediction submit league gain point good prediction scrape odd online bookie favourite price correct score parse create text file use workflow app retrieve text file dropbox text message",en
+i wanted to be able to ssh / vpn into my home network i have a raspberry pi constantly on without having to rely on dynamic dns etc for static ip initially i had a script that ran as a cron job and sent me an email when the public ip changed but i ended up creating a slack bot that listens to a command e.g. you type ip into a channel and runs on the pi as a service accompanied by a script that logs into slack posts the command and waits for the appropriate response it really made my life easier,wanted able ssh / vpn home network raspberry pi constantly having rely dynamic dns etc static ip initially script ran cron job sent email public ip changed ended creating slack bot listens command e.g. type ip channel runs pi service accompanied script logs slack posts command waits appropriate response life easier,want able ssh / vpn home network raspberry pi constantly have rely dynamic dns etc static ip initially script run cron job send email public ip change end create slack bot listen command e.g. type ip channel run pi service accompany script log slack post command wait appropriate response life easy,en
+"i wrote a minecraft bot client](https://github.com / smilechaser / mc roboto that automates the generation of packet formats based on the version number it uses protocol specs from another project](https://github.com / prismarinejs / minecraft data and builds the appropriate packets according to what version of the server you want to connect to 
+
+ it 's part of a bigger project to write a complete bot but baby steps right 
+
+
+
+","wrote minecraft bot client](https://github.com / smilechaser / mc roboto automates generation packet formats based version number uses protocol specs project](https://github.com / prismarinejs / minecraft data builds appropriate packets according version server want connect 
+
+  bigger project write complete bot baby steps right 
+
+
+
+","write minecraft bot client](https://github.com / smilechaser / mc roboto automate generation packet format base version number use protocol specs project](https://github.com / prismarinejs / minecraft datum build appropriate packet accord version server want connect 
+
+   big project write complete bot baby step right 
+
+
+
+",en
+i wrote a script that downloads comic book images and converts them into comic book reader format for my kids comicsnagger](https://github.com / clamytoe / comicsnagger,wrote script downloads comic book images converts comic book reader format kids comicsnagger](https://github.com / clamytoe / comicsnagger,write script download comic book image convert comic book reader format kids comicsnagger](https://github.com / clamytoe / comicsnagger,en
+i used to check log files everday to check for errors and to make sure the tasks had run on all devices sometime within the previous 48 hours   then i learned to program   now i have a django app that instantly tells me which log files contain errors or are older than 48 hours   it has saved me tons of time,check log files everday check errors sure tasks run devices previous 48 hours    learned program    django app instantly tells log files contain errors older 48 hours    saved tons time,check log file everday check error sure task run device previous 48 hour     learn program     django app instantly tell log file contain error old 48 hour     save ton time,en
+wrote a deployment script to package and upload to vps using ssh key,wrote deployment script package upload vps ssh key,write deployment script package upload vps ssh key,en
+i work on a physics model in c++ at work that uses message passing i wrote a python script to generate the logging code in c++ for our model using pygccxml,work physics model c++ work uses message passing wrote python script generate logging code c++ model pygccxml,work physics model c++ work use message passing write python script generate logging code c++ model pygccxml,en
+i am currently writing a script to parse an enscribe file from a tandem nonstop server as part of a process to eliminate the use of sas on a z / os box   first time having to use unpack bit it 's kind of cool taking a binary blob and turning it into something parsable i can poke into a sql database,currently writing script parse enscribe file tandem nonstop server process eliminate use sas z / os box    time having use unpack bit kind cool taking binary blob turning parsable poke sql database,currently write script parse enscribe file tandem nonstop server process eliminate use sas z / os box     time have use unpack bit kind cool take binary blob turn parsable poke sql database,en
+i used psutil in a cronjob to kill another cronjob once because they would n't let me fix the problem,psutil cronjob kill cronjob let fix problem,psutil cronjob kill cronjob let fix problem,en
+i wrote a python script that given a company name and a field will retrieve the name and email of the person to contact for example if you want to know a contact in the sales department at nike us it would give it to you,wrote python script given company field retrieve email person contact example want know contact sales department nike,write python script give company field retrieve email person contact example want know contact sale department nike,en
+wrote a script that merges config changes into a running unbound instance because unbound drops its cache on restart,wrote script merges config changes running unbound instance unbound drops cache restart,write script merge config change run unbound instance unbound drop cache restart,en
+wrote a script that exports my napster playlists to text files and vice versa looking to expand it to spotify next :),wrote script exports napster playlists text files vice versa looking expand spotify :),write script export napster playlist text file vice versa look expand spotify :),en
+i created a script that takes all the artists i follow on spotify and creates a playlists of the 400 latest song they released,created script takes artists follow spotify creates playlists 400 latest song released,create script take artist follow spotify create playlist 400 late song release,en
+"i wrote a lot of scripts that played some games for fun 
+ suing screen capturing and simulating user input 
+ mostly just flash games but once i hooked it up to a bluestack it 's an android simulator for pc and simulated resource gathering and keeping the account online in clash of clans back when they had a more relaxed limit on keeping an account online      
+
+","wrote lot scripts played games fun 
+  suing screen capturing simulating user input 
+  flash games hooked bluestack android simulator pc simulated resource gathering keeping account online clash clans relaxed limit keeping account online      
+
+","write lot script play game fun 
+   sue screen capturing simulate user input 
+   flash game hook bluestack android simulator pc simulate resource gathering keeping account online clash clan relaxed limit keeping account online      
+
+",en
+i got into cookie clicker but i realized it was really boring after about a minute of playing it so i wrote a program using python that plays it for me then i realized it 's a lot of work to actually go on google chrome type in the url wait and start of program so i extended it to where i literally just run the program and it looks for chrome clicks it types the url then starts playing it 'll click and buy things for me when they 're available,got cookie clicker realized boring minute playing wrote program python plays realized lot work actually google chrome type url wait start program extended literally run program looks chrome clicks types url starts playing click buy things available,get cookie clicker realize boring minute playing write program python play realize lot work actually google chrome type url wait start program extend literally run program look chrome click type url start play click buy thing available,en
+currently i 'm working on a want price for the reverb site used flask to have a quick and dirty form to register a user then allow that user to enter a search term and then the price they want the item at will cron up a job that then gets the users and the items they want and use the reverb rest interface to search once an hour and email results of items that meet the price requirement,currently ' m working want price reverb site flask quick dirty form register user allow user enter search term price want item cron job gets users items want use reverb rest interface search hour email results items meet price requirement,currently ' m work want price reverb site flask quick dirty form register user allow user enter search term price want item cron job get user item want use reverb rest interface search hour email result item meet price requirement,en
+"not that cool but useful to our tiny community 
+
+ made a script to scrape data from screenshots from the game maplestory in order to calculate probabilities of some rng results https://github.com/vivan/maplecubeparser 
+
+ another script to scrape the game 's rankings list to identify people who have either dropped off rankings been banned or made big/ impossible jumps https://gist.github.com/vivan/0724970a5ac4fce52489a24389c802eb 
+
+ and finally a script to look forward in the news they would often leave drafts of announcements on the site but not published so if you knew the url you could see the announcement before it was supposed to live by bruteforcing urls using their known pattern https://gist.github.com/vivan/a88dcc19ccbc620804625df2ef01275e","cool useful tiny community 
+
+  script scrape data screenshots game maplestory order calculate probabilities rng results https://github.com/vivan/maplecubeparser 
+
+  script scrape game rankings list identify people dropped rankings banned big/ impossible jumps https://gist.github.com/vivan/0724970a5ac4fce52489a24389c802eb 
+
+  finally script look forward news leave drafts announcements site published knew url announcement supposed live bruteforcing urls known pattern https://gist.github.com/vivan/a88dcc19ccbc620804625df2ef01275e","cool useful tiny community 
+
+   script scrape data screenshot game maplestory order calculate probability rng result https://github.com/vivan/maplecubeparser 
+
+   script scrape game ranking list identify people drop ranking ban big/ impossible jump https://gist.github.com/vivan/0724970a5ac4fce52489a24389c802eb 
+
+   finally script look forward news leave drafts announcement site publish know url announcement suppose live bruteforcing urls know pattern https://gist.github.com/vivan/a88dcc19ccbc620804625df2ef01275e",en
+made a simple script to auto scan the clipboard for url and instantly use the google url shorter on it and when you paste it the url is shortened link if you are interested link](https://github.com / lucashms / intellipaste,simple script auto scan clipboard url instantly use google url shorter paste url shortened link interested link](https://github.com / lucashms / intellipaste,simple script auto scan clipboard url instantly use google url short paste url shorten link interested link](https://github.com / lucashm / intellipaste,en
+"at previous work i used python for many network automation orchestration and operation some example a script that make provisioning for many vlan more than 3000 in a bunch of routers that should be quite identical a script that check the payments status and put customer not paying in a very low queue talking with radius many script for helping operation in disaster recovery or machine reprovisioning a tool that every hour checked ripe db and syncronizes our bgp filter in many ixp 
+ there was a lot of boring task to repeat but my manager was not so open about automation 
+
+ for fun i scraped many sites i downloaded statistics from the football league sites for a gambling model or i checked when my adsl line will be activable on my new apartment scraping provider web page 
+ at the moment i 'm writing a small warehouse manager for a charity pizza shop 
+","previous work python network automation orchestration operation example script provisioning vlan 3000 bunch routers identical script check payments status customer paying low queue talking radius script helping operation disaster recovery machine reprovisioning tool hour checked ripe db syncronizes bgp filter ixp 
+  lot boring task repeat manager open automation 
+
+  fun scraped sites downloaded statistics football league sites gambling model checked adsl line activable new apartment scraping provider web page 
+  moment ' m writing small warehouse manager charity pizza shop 
+","previous work python network automation orchestration operation example script provision vlan 3000 bunch routers identical script check payment status customer pay low queue talk radius script help operation disaster recovery machine reprovisione tool hour check ripe db syncronize bgp filter ixp 
+   lot bore task repeat manager open automation 
+
+   fun scrape site download statistic football league site gambling model check adsl line activable new apartment scrape provider web page 
+   moment ' m write small warehouse manager charity pizza shop 
+",en
+"i 've done experiments diamond wire cutting marble slabs](https://vimeo.com/94076571 
+ the robotics software converting the cad > cam is built on top of","' ve experiments diamond wire cutting marble slabs](https://vimeo.com/94076571 
+  robotics software converting cad > cam built","' ve experiment diamond wire cutting marble slabs](https://vimeo.com/94076571 
+   robotic software converting cad > cam build",en
+fucking up my life relentlessly,fucking life relentlessly,fucking life relentlessly,en
+also curious about this,curious,curious,en
